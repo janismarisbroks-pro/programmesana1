@@ -1,0 +1,67 @@
+h1,h2,h3,h4 {
+    color: rgb(0, 0, 0);
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+
+margin-left: 100 px;
+margin-right: 100 px;
+margin-top: 50px;
+margin-bottom: 50px;
+width: 50%;
+text-align: center;
+border-style: solid;
+border-color: rgb(15, 90, 0);
+.rindkopa {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#izcelts {
+    font-weight: 900;
+}
+
+body {background-color: rgb(255, 255, 255); font-size: large;} 
+
+.kaste {width: 60%; margin-left: auto; margin-right: auto; text-align: justify;}
+
+.blakus {
+    float: left;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rinkdopaj {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.augseja-klase {
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+    border-style: solid;
+    border-width: 10px;
+    padding: 20px
+  }
+  
+  .videja-klase {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin-left: 260px;
+    border-style: solid;
+    border-width: 20px;
+  }
+  
+  .apakseja-klase {
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+    margin-left: 500px;
+    border-style: solid;
+    border-width: 10px;
+  }
+

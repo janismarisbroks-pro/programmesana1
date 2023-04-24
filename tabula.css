@@ -1,0 +1,25 @@
+
+table, tr, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style-type: armenian;
+    }
+
+ol {
+        list-style-type: upper-roman;
+        background-color:rgb(195, 195, 204);
+        }
+
+.kinietis {
+    list-style-type: trad-chinese-informal;
+    color: red; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
